@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     # transcribe the video
     results = []
-    link = "https://youtu.be/i3TwZdUVlo0"   #
+    link = "https://youtu.be/ORMx45xqWkA"   #
     transcribe(link, results)
     generate_captions(link, results)
 
